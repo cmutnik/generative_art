@@ -1,3 +1,7 @@
+# local changes to default python .gitignore
+.DS_Store
+pytorch-generative-adversarial-networks/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
