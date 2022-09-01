@@ -12,3 +12,4 @@ Also see/integrate these repo dirs:
 ----
 ### Resources ###
 - [Fantastic GANs and where to find them](https://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them)
+- [Pokemon GANs](https://github.com/llSourcell/Pokemon_GAN)
