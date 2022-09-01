@@ -17,7 +17,7 @@ python pil_generative_art.py
 
 ----
 ## Results ##
-Outputs are stored in [`output/`](./output/).
+Outputs are stored in [`outputs/`](./outputs/).
 
 Some example outputs:<br>
 > <img src="./outputs/square_dims_140_140_number_of_squares_131_seed_val_133_runid_9a7aaa70-29a8-11ed-852a-a0999b1d9e81.png" width="15%">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
