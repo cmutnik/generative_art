@@ -8,3 +8,7 @@ Also see/integrate these repo dirs:
 - [] [Pokemon GAN](./pytorch-generative-adversarial-networks/) (Link is intentionally broken.)
 
 **NOTE: Work in progress.**
+
+----
+### Resources ###
+- [Fantastic GANs and where to find them](https://guimperarnau.com/blog/2017/03/Fantastic-GANs-and-where-to-find-them)
